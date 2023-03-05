@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "746454660579",
+    "firebase_url": "https://coding-minds3-default-rtdb.firebaseio.com",
+    "project_id": "coding-minds3",
+    "storage_bucket": "coding-minds3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746454660579:android:5b5d004dceb22ee8d21cd6",
+        "android_client_info": {
+          "package_name": "com.esther.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746454660579-68s3e9n4gqk035pe7l331ftov8e725kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoD9g2N_SIGEiZIg-rssrsG0s4amyZUdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746454660579-68s3e9n4gqk035pe7l331ftov8e725kh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746454660579-54jfkphpadgi8qaf15gkrp27r30ftefc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.codingMindsBootstrap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746454660579:android:04a351dc40f88acbd21cd6",
+        "android_client_info": {
+          "package_name": "com.example.coding_minds_bootstrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746454660579-68s3e9n4gqk035pe7l331ftov8e725kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoD9g2N_SIGEiZIg-rssrsG0s4amyZUdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746454660579-68s3e9n4gqk035pe7l331ftov8e725kh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746454660579-54jfkphpadgi8qaf15gkrp27r30ftefc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.codingMindsBootstrap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
