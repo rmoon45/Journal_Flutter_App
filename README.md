@@ -1,16 +1,7 @@
-# coding_minds_bootstrap
+# Information
 
-A new Flutter project.
+Done within 24 hours. This was done for the Coding Minds Flutter Bootstrap.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app was coded in Android studio with Flutter.
+It uses Firebase Authethentication for login and Firebase database for the journal entries information.
+You are able to create new entries and review past journal entries.
